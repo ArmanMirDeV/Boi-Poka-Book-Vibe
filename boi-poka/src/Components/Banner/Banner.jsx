@@ -1,17 +1,21 @@
 import React from 'react';
-import bookImage from '../../assets/books.jpg'
+import bookImage from '../../assets/pngwing1.png'
 
 const Banner = () => {
     return (
-        <div className='flex justify-around items-center p-16 w-full m-auto ' >
-            <div> 
-                <h1>Lorem ipsum dolor sit amet consectetur.</h1> 
-                <button className='btn-primary' >Test</button>
-            </div>
-            <div>
-                <img className='w-3/12' src={bookImage} alt="" />
-            </div>
-        </div>
+        <div className=" bg-base-200 p-12 ">
+  <div className="hero-content flex-col lg:flex-row-reverse">
+    <img
+      src={bookImage}
+      className="rounded-lg shadow-2xl"
+    />
+    <div  >
+      <h1 className="text-5xl font-bold">Books to freshen up your bookshelf</h1>
+      
+      <button className="btn bg-green-600 mt-8">View The List</button>
+    </div>
+  </div>
+</div>
     );
 };
 
