@@ -6,19 +6,20 @@ import ErrorPage from '../Pages/ErrorPage/ErrorPage';
 import Home from '../Pages/Home/Home';
 import About from '../Pages/About/About';
 import BookDetails from '../Pages/BookDetails/BookDetails';
+import ReadList from '../Pages/ReadList/ReadList';
 
 
 
 export const router = createBrowserRouter([
     {
         path: "/",
-        Component:Root,
+        Component: Root,
         errorElement: <ErrorPage></ErrorPage>,
         children: [
             {
                 index: true,
-                loader: ()=> fetch('booksData.json'),
-                path:"/",
+                loader: () => fetch('booksData.json'),
+                path: "/",
                 Component: Home
             },
             {
@@ -26,9 +27,14 @@ export const router = createBrowserRouter([
                 Component: About
             },
             {
-               path: '/bookDetails/:id',
-               loader: ()=> fetch('booksData.json'),
-               Component: BookDetails
+                path: '/readList',
+                loader: () => fetch('booksData.json'),
+                Component: ReadList
+            },
+            {
+                path: '/bookDetails/:id',
+                loader: () => fetch('booksData.json'),
+                Component: BookDetails
             }
         ]
     }
