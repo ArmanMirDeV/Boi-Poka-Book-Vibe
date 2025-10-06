@@ -1,5 +1,6 @@
 import React from 'react';
 import { useLoaderData, useParams } from 'react-router';
+import { addToStoredDB } from '../../Utilities/addToDB';
 
 const BookDetails = () => {
 
@@ -13,11 +14,15 @@ const BookDetails = () => {
     const { bookName, image, author, category, review, totalPages, publisher, yearOfPublishing, rating, tags } = singleBook;
 
 
-    const handleMarkAsRead = id =>{
+    const handleMarkAsRead = (id) =>{
 
         // store with id 
         // where to store 
         // array of collection 
+        // if book already exist then show an alert 
+        // if book doesn't exist then push to the collection array
+
+        addToStoredDB(id);
 
     }
 
@@ -62,7 +67,7 @@ const BookDetails = () => {
                     </div>
                 </div>
                 <div className="card-actions mt-2 gap-3">
-                    <button className="btn">Mark as Read</button>
+                    <button onClick={ ()=> handleMarkAsRead(id)} className="btn">Mark as Read</button>
                     <button className="btn btn-info">Add to Wishlist</button>
                 </div>
             </div>
