@@ -10,6 +10,10 @@ const ReadList = () => {
 
     const data = useLoaderData();
 
+    const [sort, setSort] = useState("");
+
+    
+
     useEffect(() => {
         const storedBookData = getStoredBook();
 
@@ -19,7 +23,22 @@ const ReadList = () => {
 
         setReadList(myReadList);
 
-    }, [])
+    }, []);
+
+    const handleSort = (type) =>{
+       setSort(type);
+       if(type==="Pages"){
+         const sortedByPage = [...readList].sort((a,b) => a.totalPages-b.totalPages);
+
+         setReadList(sortedByPage);
+
+       }
+       if(type==="Pages"){
+        const sortedByRatings=[...readList].sort((a,b) => a.rating - b.rating );
+
+        setReadList(sortedByRatings)
+       }
+    }
 
     return (
 
@@ -27,6 +46,16 @@ const ReadList = () => {
 
 
         <div>
+
+            <div className='flex justify-end' >
+                <div className="dropdown">
+                    <div tabIndex={0} role="button" className="btn m-1">Sort By : {sort?sort:""}</div>
+                    <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+                        <li><a onClick={() => handleSort("Pages")} >Pages</a></li>
+                        <li><a onClick={() => handleSort("Ratings")} >Ratings</a></li>
+                    </ul>
+                </div>
+            </div>
 
             <div className="tabs tabs-box">
                 <input type="radio" name="my_tabs_6" className="tab" aria-label="Read Books" />
