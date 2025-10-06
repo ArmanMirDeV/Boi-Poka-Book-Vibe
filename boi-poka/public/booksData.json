@@ -1,5 +1,73 @@
 [
   {
+    "bookId": 69,
+    "bookName": "Shapmochon",
+    "author": "Sarat Chandra Chattopadhyay",
+    "image": "https://i.ibb.co.com/p6f59M5h/250px-Shap-Mochan-1955-film-poster.jpg",
+    "review": "Sarat Chandra Chattopadhyay’s 'Shapmochon' is a powerful exploration of human weakness, repentance, and redemption. The story follows a man torn between guilt and the hope of freeing himself from the curse of his past actions. With deep emotional insight and moral complexity, Chattopadhyay delves into the inner conflict of conscience, love, and social expectation. Written in his signature lucid Bengali style, the novel portrays how one’s soul can find peace only through truth and sacrifice.",
+    "totalPages": 232,
+    "rating": 4.7,
+    "category": "Classic Literature",
+    "tags": [
+      "Bengali Literature",
+      "Morality",
+      "Redemption"
+    ],
+    "publisher": "Bengal Publishers",
+    "yearOfPublishing": 1927
+  },
+  {
+    "bookId": 81,
+    "bookName": "If Tomorrow Comes",
+    "author": "Sidney Sheldon",
+    "image": "https://i.ibb.co.com/zhZ2JmLH/17926643.jpg",
+    "review": "Sidney Sheldon's 'If Tomorrow Comes' is a gripping tale of revenge, resilience, and transformation. The story follows Tracy Whitney, a smart and determined woman who is betrayed, imprisoned, and left to rebuild her life. Through wit and courage, she reinvents herself into a master con artist, taking control of her destiny. Fast-paced, thrilling, and full of unexpected twists, the novel celebrates the triumph of intelligence and willpower over injustice.",
+    "totalPages": 512,
+    "rating": 4.7,
+    "category": "Thriller",
+    "tags": [
+      "Crime",
+      "Revenge",
+      "Suspense"
+    ],
+    "publisher": "William Morrow",
+    "yearOfPublishing": 1985
+  },
+  {
+    "bookId": 82,
+    "bookName": "Totto-chan: The Little Girl at the Window",
+    "author": "Tetsuko Kuroyanagi",
+    "image": "https://i.ibb.co.com/XxdVT7kj/Totto-chan.png",
+    "review": "'Totto-chan: The Little Girl at the Window' is a charming and heartwarming memoir by Japanese actress and UNICEF ambassador Tetsuko Kuroyanagi. The book recounts her childhood at Tomoe Gakuen, an unconventional school that encouraged curiosity, creativity, and kindness. Through Totto-chan’s innocent eyes, readers discover the beauty of learning through freedom and compassion. It’s an inspiring celebration of childhood, education, and the belief that every child is unique.",
+    "totalPages": 232,
+    "rating": 4.9,
+    "category": "Memoir / Children’s Literature",
+    "tags": [
+      "Education",
+      "Childhood",
+      "Inspiration"
+    ],
+    "publisher": "Kodansha International",
+    "yearOfPublishing": 1981
+  },
+  {
+    "bookId": 70,
+    "bookName": "Choritrohin",
+    "author": "Sarat Chandra Chattopadhyay",
+    "image": "https://i.ibb.co.com/jPcyDK81/images-q-tbn-ANd9-Gc-Rw-vdd1-N8-Jl-K-AJCp-Ng5-oa9-BLs-LB2-PSqg-s.jpg",
+    "review": "A bold and provocative novel by Sarat Chandra Chattopadhyay, 'Choritrohin' explores the moral complexities and hypocrisies of society, especially regarding women and social expectations. The story follows several characters whose choices challenge societal norms, highlighting the tension between personal freedom and social judgment. With empathetic characterization and profound insight into human behavior, the novel critiques the rigid moral standards of early 20th-century Bengal while remaining deeply human and relatable.",
+    "totalPages": 296,
+    "rating": 4.8,
+    "category": "Classic Literature",
+    "tags": [
+      "Bengali Literature",
+      "Social Commentary",
+      "Women’s Rights"
+    ],
+    "publisher": "Bengal Publishers",
+    "yearOfPublishing": 1917
+  },
+  {
     "bookId": 1,
     "bookName": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
@@ -8,7 +76,10 @@
     "totalPages": 192,
     "rating": 4.5,
     "category": "Classic",
-    "tags": ["Fiction", "Romance"],
+    "tags": [
+      "Fiction",
+      "Romance"
+    ],
     "publisher": "Scribner",
     "yearOfPublishing": 1925
   },
@@ -21,7 +92,10 @@
     "totalPages": 281,
     "rating": 4.8,
     "category": "Fiction",
-    "tags": ["Drama", "Social Justice"],
+    "tags": [
+      "Drama",
+      "Social Justice"
+    ],
     "publisher": "J.B. Lippincott & Co.",
     "yearOfPublishing": 1960
   },
@@ -34,7 +108,10 @@
     "totalPages": 328,
     "rating": 4.6,
     "category": "Fiction",
-    "tags": ["Dystopian", "Political"],
+    "tags": [
+      "Dystopian",
+      "Political"
+    ],
     "publisher": "Secker & Warburg",
     "yearOfPublishing": 1949
   },
@@ -47,7 +124,10 @@
     "totalPages": 224,
     "rating": 4.3,
     "category": "Fiction",
-    "tags": ["Young Adult", "Identity"],
+    "tags": [
+      "Young Adult",
+      "Identity"
+    ],
     "publisher": "Little, Brown and Company",
     "yearOfPublishing": 1951
   },
@@ -60,7 +140,10 @@
     "totalPages": 279,
     "rating": 4.7,
     "category": "Classic",
-    "tags": ["Romance", "Satire"],
+    "tags": [
+      "Romance",
+      "Satire"
+    ],
     "publisher": "T. Egerton, Whitehall",
     "yearOfPublishing": 1813
   },
@@ -73,7 +156,10 @@
     "totalPages": 310,
     "rating": 4.9,
     "category": "Fantasy",
-    "tags": ["Adventure", "Epic"],
+    "tags": [
+      "Adventure",
+      "Epic"
+    ],
     "publisher": "Allen & Unwin",
     "yearOfPublishing": 1937
   },
@@ -86,7 +172,10 @@
     "totalPages": 309,
     "rating": 4.8,
     "category": "Fantasy",
-    "tags": ["Magic", "Young Adult"],
+    "tags": [
+      "Magic",
+      "Young Adult"
+    ],
     "publisher": "Bloomsbury",
     "yearOfPublishing": 1997
   },
@@ -99,7 +188,10 @@
     "totalPages": 177,
     "rating": 4.6,
     "category": "Fiction",
-    "tags": ["Philosophical", "Adventure"],
+    "tags": [
+      "Philosophical",
+      "Adventure"
+    ],
     "publisher": "HarperCollins",
     "yearOfPublishing": 1988
   },
@@ -112,8 +204,955 @@
     "totalPages": 316,
     "rating": 4.2,
     "category": "Mystery",
-    "tags": ["Suspense", "Psychological"],
+    "tags": [
+      "Suspense",
+      "Psychological"
+    ],
     "publisher": "Riverhead Books",
     "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 10,
+    "bookName": "Gone Girl",
+    "author": "Gillian Flynn",
+    "image": "https://i.ibb.co.com/Kz2Cg44d/4c61372c2a8bdadae20b5f03d33c7893.jpg",
+    "review": "A masterful psychological thriller that redefines the marriage gone wrong narrative. When Amy Dunne disappears on her fifth wedding anniversary, her husband Nick becomes the prime suspect. Flynn crafts a twisted tale of manipulation, media frenzy, and toxic relationships that keeps readers guessing until the final page. The alternating perspectives reveal layers of deception and dark secrets that challenge our perceptions of truth and marriage. With razor-sharp prose and unforgettable characters, 'Gone Girl' became a cultural phenomenon, sparking conversations about gender, media manipulation, and the masks people wear in relationships.",
+    "totalPages": 422,
+    "rating": 4.3,
+    "category": "Mystery",
+    "tags": [
+      "Thriller",
+      "Psychological"
+    ],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 11,
+    "bookName": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co.com/FkdJh65z/b83100247e1831a89576b05016dddc3e.jpg",
+    "review": "Tolkien's epic fantasy trilogy follows Frodo Baggins's perilous journey to destroy the One Ring and save Middle-earth from the Dark Lord Sauron. This masterwork created an entire genre, establishing the blueprint for modern fantasy literature. Rich with invented languages, detailed histories, and complex mythology, Tolkien crafted a fully realized world of heroism, friendship, and sacrifice. The story explores themes of power's corrupting influence, the strength of ordinary people, and the battle between good and evil. Its influence on literature, film, and popular culture remains unparalleled, cementing its place as one of the greatest works of the 20th century.",
+    "totalPages": 1178,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Epic",
+      "Adventure"
+    ],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 12,
+    "bookName": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://i.ibb.co.com/z0bCgYD/561cc186-5337-475c-88bc-893975a19d8f-2037c1b19d878b065f222cfcc62a2af9.jpg",
+    "review": "Huxley's dystopian vision presents a world where humanity is engineered for stability and happiness through genetic manipulation, conditioning, and pleasure-inducing drugs. Set in a futuristic World State, the novel explores the cost of eliminating pain, conflict, and individuality. When 'savage' John enters this perfect society, his reactions expose its underlying emptiness and dehumanization. Huxley's prophetic warnings about technology, consumerism, and the loss of human dignity remain disturbingly relevant. The novel's exploration of freedom versus security, and pleasure versus meaning, makes it essential reading for understanding modern technological society.",
+    "totalPages": 268,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "publisher": "Chatto & Windus",
+    "yearOfPublishing": 1932
+  },
+  {
+    "bookId": 13,
+    "bookName": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "image": "https://i.ibb.co.com/M5gJchvJ/17165596.jpg",
+    "review": "A powerful story of friendship, betrayal, and redemption set against Afghanistan's tumultuous history. Amir's guilt over betraying his childhood friend Hassan haunts him into adulthood, driving him to return to Taliban-ruled Afghanistan for a chance at redemption. Hosseini's debut novel humanizes Afghanistan beyond headlines, depicting its rich culture and the devastating impact of decades of conflict. The narrative explores themes of class, ethnicity, father-son relationships, and the possibility of atonement. Emotionally resonant and beautifully written, it became an international bestseller that introduced millions to Afghan culture and history.",
+    "totalPages": 371,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Historical",
+      "Drama"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 14,
+    "bookName": "Animal Farm",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co.com/dJ2FsgKZ/da1cd57a5d78949896e7a3caa103ed3d.jpg",
+    "review": "Orwell's allegorical novella uses a farm animal rebellion to satirize the Russian Revolution and Stalinist Soviet Union. When the animals overthrow their human farmer, they establish a society based on equality, but the pigs gradually become as oppressive as the humans they replaced. Through simple prose and memorable characters, Orwell exposes how revolutions can be corrupted and ideals betrayed. The famous line 'All animals are equal, but some animals are more equal than others' perfectly captures the hypocrisy of totalitarian regimes. This timeless political fable remains relevant to understanding power, propaganda, and political corruption.",
+    "totalPages": 112,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Political",
+      "Satire"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1945
+  },
+  {
+    "bookId": 15,
+    "bookName": "The Book Thief",
+    "author": "Markus Zusak",
+    "image": "https://i.ibb.co.com/9kGDZh8T/1-FDB2-F46-59-B7-494-E-B31-B-DE33-FF41-F6-D8-Img400.jpg",
+    "review": "Narrated by Death, this unique Holocaust novel follows Liesel Meminger, a young girl living with foster parents in Nazi Germany who steals books and shares them with others. Zusak's innovative narrative voice and poetic prose create a haunting yet beautiful story about the power of words, the kindness of strangers, and love in the darkest times. The novel explores how literature can provide comfort and resistance against oppression. Death's compassionate yet matter-of-fact narration offers a fresh perspective on WWII's horrors while celebrating humanity's resilience and capacity for goodness even in evil times.",
+    "totalPages": 552,
+    "rating": 4.8,
+    "category": "Historical Fiction",
+    "tags": [
+      "War",
+      "Young Adult"
+    ],
+    "publisher": "Picador",
+    "yearOfPublishing": 2005
+  },
+  {
+    "bookId": 16,
+    "bookName": "Pather Panchali",
+    "author": "Bibhutibhushan Bandyopadhyay",
+    "image": "https://i.ibb.co.com/w1WhYh9/hap384.webp",
+    "review": "A masterpiece of Bengali literature that chronicles the childhood of Apu and his sister Durga in a poor Brahmin family in rural Bengal. Bandyopadhyay's lyrical prose beautifully captures the innocence of childhood, the harsh realities of poverty, and the enduring beauty of nature. The novel's vivid descriptions transport readers to early 20th century Bengal, depicting family bonds, village life, and the bittersweet journey from childhood to adolescence. This coming-of-age story explores themes of loss, resilience, and the human spirit's ability to find joy despite hardship. It inspired Satyajit Ray's iconic Apu Trilogy films.",
+    "totalPages": 318,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Bengali Literature"
+    ],
+    "publisher": "Rupa Publications",
+    "yearOfPublishing": 1929
+  },
+  {
+    "bookId": 17,
+    "bookName": "Gitanjali",
+    "author": "Rabindranath Tagore",
+    "image": "https://i.ibb.co.com/NnkCDmFp/392bd24f048ac28957c7b09b5e449b1e.jpg",
+    "review": "Rabindranath Tagore's Nobel Prize-winning collection of 103 poems explores divine love, spirituality, and the human soul's relationship with the infinite. These devotional poems blend Bengali bhakti traditions with universal humanistic values, creating verses of profound beauty and wisdom. Tagore's own English translation brought Indian literature to the world stage, earning him the 1913 Nobel Prize in Literature. The poems meditate on life, death, love, and the search for meaning with lyrical grace. 'Gitanjali' (Song Offerings) remains a spiritual classic that transcends cultural boundaries, speaking to the universal human longing for connection and transcendence.",
+    "totalPages": 157,
+    "rating": 4.7,
+    "category": "Poetry",
+    "tags": [
+      "Classic",
+      "Spiritual"
+    ],
+    "publisher": "Macmillan",
+    "yearOfPublishing": 1910
+  },
+  {
+    "bookId": 18,
+    "bookName": "Devdas",
+    "author": "Sarat Chandra Chattopadhyay",
+    "image": "https://i.ibb.co.com/HTK97fpc/941992163-115564.jpg",
+    "review": "A tragic Bengali romance that has become a cultural phenomenon across South Asia. Devdas returns from Calcutta to marry his childhood sweetheart Paro, but family pride and social status tear them apart. Unable to cope with loss, Devdas descends into alcoholism and self-destruction, seeking solace with courtesan Chandramukhi. Sarat Chandra masterfully portrays the protagonist's weakness, the devastating consequences of societal pressures, and unrequited love's pain. The novel's emotional intensity and realistic characterization have inspired numerous adaptations in Indian cinema, making it one of the most iconic tragic love stories in South Asian literature.",
+    "totalPages": 176,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Romance",
+      "Tragedy"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 1917
+  },
+  {
+    "bookId": 19,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "https://i.ibb.co.com/7xJ7dhxn/04a41e69f9087cb31ae064cbf7833419.jpg",
+    "review": "A gripping thriller that combines art history, religious conspiracy, and page-turning suspense. When curator Jacques Saunière is murdered in the Louvre, symbologist Robert Langdon and cryptologist Sophie Neveu uncover a trail of clues hidden in Leonardo da Vinci's works. Their quest leads them to question the foundations of Christianity and uncover an ancient secret society. Brown's fast-paced narrative weaves historical facts with fiction, creating an addictive puzzle that keeps readers engaged. Though controversial for its religious themes, the novel became a global phenomenon, sparking debates and inspiring millions to explore art history and religious mysteries.",
+    "totalPages": 454,
+    "rating": 4.1,
+    "category": "Mystery",
+    "tags": [
+      "Thriller",
+      "Adventure"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 20,
+    "bookName": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "image": "https://i.ibb.co.com/VYdLG83g/Crimeandpunishmentcover.png",
+    "review": "Dostoevsky's psychological masterpiece follows impoverished student Raskolnikov, who murders a pawnbroker believing himself above moral law. The novel explores the mental anguish and paranoia that follow, as guilt consumes him despite his intellectual justifications. Through Raskolnikov's journey toward redemption, Dostoevsky examines morality, free will, and the possibility of spiritual renewal. The intense psychological depth, philosophical dialogues, and exploration of suffering and salvation make this one of literature's greatest achievements. Its influence on psychological fiction and criminal psychology remains profound, offering timeless insights into the human conscience and moral responsibility.",
+    "totalPages": 671,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Psychological"
+    ],
+    "publisher": "The Russian Messenger",
+    "yearOfPublishing": 1866
+  },
+  {
+    "bookId": 21,
+    "bookName": "Chokher Bali",
+    "author": "Rabindranath Tagore",
+    "image": "https://i.ibb.co.com/FLcP91vv/page1-250px-pdf.jpg",
+    "review": "A groundbreaking exploration of female desire and agency in early 20th century Bengal. Binodini, a young widow, disrupts the comfortable household of her childhood friend with her unconventional desires and refusal to accept society's restrictions. Tagore crafts a complex psychological portrait of a woman fighting against the suffocating norms imposed on widows. The novel examines jealousy, friendship, love, and the limited choices available to women. Tagore's progressive views on women's autonomy and his nuanced characterization make this a landmark feminist text that remains relevant today, challenging patriarchal structures and celebrating female complexity.",
+    "totalPages": 224,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Romance"
+    ],
+    "publisher": "Visva-Bharati",
+    "yearOfPublishing": 1903
+  },
+  {
+    "bookId": 22,
+    "bookName": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "image": "https://i.ibb.co.com/KpFmQkP9/637928043262970000.jpg",
+    "review": "A dystopian young adult novel set in post-apocalyptic Panem, where teenagers are forced to fight to the death in televised gladiatorial games. When Katniss Everdeen volunteers to save her sister, she becomes a symbol of rebellion against the oppressive Capitol. Collins creates a gripping survival story that explores themes of government control, media manipulation, class inequality, and the moral costs of violence. The fast-paced narrative combines action, romance, and political commentary, resonating with readers of all ages. The trilogy sparked a YA dystopian boom and cultural conversations about reality TV, war, and resistance.",
+    "totalPages": 374,
+    "rating": 4.6,
+    "category": "Young Adult",
+    "tags": [
+      "Dystopian",
+      "Adventure"
+    ],
+    "publisher": "Scholastic Press",
+    "yearOfPublishing": 2008
+  },
+  {
+    "bookId": 23,
+    "bookName": "The Shining",
+    "author": "Stephen King",
+    "image": "https://i.ibb.co.com/MyF0fMHn/64fe898275af94a9d0ac3c9268d59b8c.jpg",
+    "review": "King's terrifying masterpiece follows the Torrance family as they become winter caretakers of the isolated Overlook Hotel. As Jack Torrance descends into madness influenced by the hotel's malevolent spirits, his psychic son Danny becomes the target of supernatural forces. King masterfully blends psychological horror with supernatural terror, exploring themes of addiction, domestic violence, and the past's haunting power. The claustrophobic setting and Jack's disintegration create an atmosphere of mounting dread. Widely considered one of the greatest horror novels, it showcases King's ability to find terror in both the supernatural and human psychology.",
+    "totalPages": 447,
+    "rating": 4.5,
+    "category": "Horror",
+    "tags": [
+      "Supernatural",
+      "Thriller"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 1977
+  },
+  {
+    "bookId": 24,
+    "bookName": "Srikanta",
+    "author": "Sarat Chandra Chattopadhyay",
+    "image": "https://i.ibb.co.com/PvznMS5J/6a39cdc04-214758.png",
+    "review": "Sarat Chandra's magnum opus spans four volumes following Srikanta's wandering life through India and Burma. This semi-autobiographical work presents a panoramic view of early 20th century society through encounters with diverse characters including Rajlakshmi, Annada Didi, and Abhaya. The narrative explores love, social inequality, religious hypocrisy, and human relationships with remarkable depth and sympathy. Sarat Chandra's realistic portrayal of marginalized individuals and his critique of social injustice make this an enduring masterpiece. The episodic structure allows for rich character development and philosophical reflection, cementing its place in Bengali literature.",
+    "totalPages": 672,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Adventure"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 1917
+  },
+  {
+    "bookId": 25,
+    "bookName": "Life of Pi",
+    "author": "Yann Martel",
+    "image": "https://i.ibb.co.com/prNjftZY/4214.jpg",
+    "review": "An extraordinary tale of survival and faith following Pi Patel, who survives 227 days adrift in the Pacific Ocean with a Bengal tiger named Richard Parker after a shipwreck. Martel weaves a philosophical fable exploring storytelling, faith, and the nature of truth. The novel's central question—which story do you prefer?—challenges readers to consider the role of belief in finding meaning. Rich with symbolism and stunning in imagination, the narrative examines humanity's relationship with animals and nature while exploring religious pluralism. Winner of the Man Booker Prize, it's a profound meditation on survival and belief.",
+    "totalPages": 319,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Adventure",
+      "Philosophical"
+    ],
+    "publisher": "Knopf Canada",
+    "yearOfPublishing": 2001
+  },
+  {
+    "bookId": 26,
+    "bookName": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "image": "https://i.ibb.co.com/fVP4z673/fc93195ca1f59ca4d596e2d824e904e2-jpg-720x720q80.jpg",
+    "review": "A beloved fantasy series of seven books beginning with 'The Lion, the Witch and the Wardrobe.' Children discover the magical land of Narnia through a wardrobe, encountering talking animals, mythical creatures, and the great lion Aslan. Lewis creates a richly imagined world that explores themes of good versus evil, sacrifice, redemption, and faith through Christian allegory. Each book takes readers on adventures filled with courage, friendship, and moral lessons. The series has captivated generations with its timeless storytelling, memorable characters, and the wonder of childhood imagination, becoming a cornerstone of children's fantasy literature.",
+    "totalPages": 767,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Young Adult",
+      "Adventure"
+    ],
+    "publisher": "Geoffrey Bles",
+    "yearOfPublishing": 1950
+  },
+  {
+    "bookId": 27,
+    "bookName": "Gora",
+    "author": "Rabindranath Tagore",
+    "image": "https://i.ibb.co.com/Jw05pdvQ/Gora-Novel-Rabindranath-Tagore.jpg",
+    "review": "Tagore's longest novel grapples with identity, nationalism, and religious orthodoxy in colonial India. Gora, a passionate advocate for Hindu identity, faces a profound crisis when he discovers his true origins. Through complex character relationships and philosophical debates, Tagore examines conflicts between tradition and modernity, religious dogma and humanistic values, and the nature of Indian identity under colonialism. The novel questions rigid nationalism while advocating for universal humanism. Its exploration of identity politics, religious tolerance, and cultural nationalism remains remarkably relevant, showcasing Tagore's progressive vision and literary brilliance in addressing India's fundamental questions.",
+    "totalPages": 544,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Political"
+    ],
+    "publisher": "Visva-Bharati",
+    "yearOfPublishing": 1910
+  },
+  {
+    "bookId": 28,
+    "bookName": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "image": "https://i.ibb.co.com/jZQz5vHz/61ebb882944ee9b2618a909620f1a6b9.jpg",
+    "review": "Vonnegut's anti-war masterpiece follows Billy Pilgrim, who becomes 'unstuck in time' after surviving the Allied bombing of Dresden in WWII. The non-linear narrative jumps between Billy's war experiences, suburban life, and alien abduction, creating a darkly comic meditation on war's senselessness and trauma. Vonnegut's simple yet profound style, combined with science fiction elements and the recurring phrase 'So it goes,' creates a unique approach to discussing atrocity and loss. The novel's experimental structure and anti-war message made it both controversial and essential reading, influencing how literature addresses war and trauma.",
+    "totalPages": 275,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Science Fiction",
+      "War"
+    ],
+    "publisher": "Delacorte",
+    "yearOfPublishing": 1969
+  },
+  {
+    "bookId": 29,
+    "bookName": "Aparajito",
+    "author": "Bibhutibhushan Bandyopadhyay",
+    "image": "https://i.ibb.co.com/DDMryqN4/822b66030-92275.jpg",
+    "review": "The powerful sequel to 'Pather Panchali' continues Apu's journey from adolescence to young adulthood. After his father's death, Apu and his mother move to Calcutta, where he pursues education while struggling with poverty and ambition. Bandyopadhyay beautifully captures the tension between rural roots and urban aspirations, the deep mother-son bond, and the sacrifices demanded by pursuing knowledge and dreams. The novel explores themes of personal growth, loss, tradition versus modernity, and the cost of ambition. Its poignant depiction of a young man torn between duty and desire makes it a worthy successor to its predecessor.",
+    "totalPages": 298,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Coming-of-age"
+    ],
+    "publisher": "Rupa Publications",
+    "yearOfPublishing": 1932
+  },
+  {
+    "bookId": 30,
+    "bookName": "The Fault in Our Stars",
+    "author": "John Green",
+    "image": "https://i.ibb.co.com/Vc6hj5k2/9780141355078-jacket-hsize.jpg",
+    "review": "A heart-wrenching young adult novel about Hazel Grace Lancaster, a sixteen-year-old cancer patient who falls in love with Augustus Waters at a support group. Green tackles terminal illness, mortality, and first love with humor, honesty, and emotional depth. The protagonists' philosophical discussions about life's meaning, their trip to Amsterdam, and their relationship's intensity create a powerful narrative about living fully despite limited time. The novel avoids sentimentality while exploring grief, legacy, and love's transformative power. Its authentic teenage voices and profound themes resonated globally, becoming a cultural phenomenon that redefined young adult literature's possibilities.",
+    "totalPages": 313,
+    "rating": 4.6,
+    "category": "Young Adult",
+    "tags": [
+      "Romance",
+      "Drama"
+    ],
+    "publisher": "Dutton Books",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 31,
+    "bookName": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "image": "https://i.ibb.co.com/gMQ280Gp/ab519c5751d23b4b934081ad5261a7e2.jpg",
+    "review": "García Márquez's magical realist epic chronicles seven generations of the Buendía family in the fictional town of Macondo. Blending myth, reality, and fantasy, the novel explores themes of fate, cyclical time, love, and Latin American history. The author's lush prose creates a world where the miraculous is mundane—from a woman ascending to heaven while folding sheets to a plague of insomnia. This landmark of world literature revolutionized fiction with its seamless integration of magical elements into realistic settings. Winner of the Nobel Prize, it influenced countless writers and remains essential reading for understanding Latin American literature.",
+    "totalPages": 417,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Magical Realism",
+      "Classic"
+    ],
+    "publisher": "Harper & Row",
+    "yearOfPublishing": 1967
+  },
+  {
+    "bookId": 32,
+    "bookName": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "image": "https://i.ibb.co.com/N6GmyjgK/9781784873189.jpg",
+    "review": "Atwood's dystopian masterpiece depicts the Republic of Gilead, a totalitarian theocracy where women are stripped of rights and reduced to reproductive vessels. Offred, a Handmaid forced to bear children for ruling-class couples, narrates her struggle to maintain identity and hope in an oppressive regime. The novel explores themes of religious extremism, patriarchal control, environmental disaster, and resistance. Atwood's chilling vision, inspired by historical events, warns against complacency regarding women's rights. Its relevance has only increased over time, sparking renewed interest and adaptations that demonstrate literature's power to illuminate present dangers through speculative fiction.",
+    "totalPages": 311,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Feminist"
+    ],
+    "publisher": "McClelland & Stewart",
+    "yearOfPublishing": 1985
+  },
+  {
+    "bookId": 33,
+    "bookName": "Aranyak",
+    "author": "Bibhutibhushan Bandyopadhyay",
+    "image": "https://i.ibb.co.com/VpN9LfXg/20250331-105338.jpg",
+    "review": "A mesmerizing tale of wilderness and human connection to nature. Satyacharan's work as an estate manager in the remote forests of Bihar becomes a spiritual journey of discovery. Bandyopadhyay's deep love for nature shines through vivid descriptions of forests, rivers, wildlife, and the changing seasons. The novel explores solitude, the primitive beauty of untamed landscapes, and the relationship between civilization and wilderness. Through encounters with forest dwellers and observation of nature, the protagonist experiences profound personal transformation. This lesser-known masterpiece showcases Bandyopadhyay's unique ability to make nature a central character, creating an immersive reading experience.",
+    "totalPages": 268,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Nature",
+      "Adventure"
+    ],
+    "publisher": "Mitra & Ghosh",
+    "yearOfPublishing": 1939
+  },
+  {
+    "bookId": 34,
+    "bookName": "Lolita",
+    "author": "Vladimir Nabokov",
+    "image": "https://i.ibb.co.com/KxQYpcKV/Lolita-1955.jpg",
+    "review": "Nabokov's controversial masterpiece is narrated by Humbert Humbert, a literature professor obsessed with twelve-year-old Dolores Haze. The novel's literary brilliance lies in Nabokov's gorgeous prose and unreliable narration that simultaneously seduces and repels readers. While depicting a deeply disturbing relationship, Nabokov creates a complex meditation on obsession, American culture, and language's power. The novel challenges readers to distinguish between aesthetic beauty and moral horror. Despite its controversial subject matter, 'Lolita' is recognized as one of the greatest novels in English, demonstrating how sophisticated writing can address difficult topics while maintaining literary excellence.",
+    "totalPages": 336,
+    "rating": 4.2,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Psychological"
+    ],
+    "publisher": "Olympia Press",
+    "yearOfPublishing": 1955
+  },
+  {
+    "bookId": 35,
+    "bookName": "Parineeta",
+    "author": "Sarat Chandra Chattopadhyay",
+    "image": "https://i.ibb.co.com/svLHt3vJ/Porinita-Saratchandra-Chattopadhyay-f3861-227418.png",
+    "review": "A timeless Bengali romance set in early 20th century Calcutta exploring love between neighbors. Lalita and Shekhar's relationship is tested by family pride, misunderstandings, and social expectations. Sarat Chandra weaves a narrative examining how ego and miscommunication impact love, while depicting urban Bengal's changing social landscape. The novel explores themes of loyalty, sacrifice, and the consequences of hasty judgments. Through nuanced characterization and emotional depth, the story reveals how pride can destroy relationships while true love endures obstacles. Its realistic portrayal of human relationships has made it a beloved classic, adapted multiple times in Indian cinema.",
+    "totalPages": 144,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Romance",
+      "Drama"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 1914
+  },
+  {
+    "bookId": 36,
+    "bookName": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "image": "https://i.ibb.co.com/MDnGrGVk/MV5-BMGFl-MTVk-MDkt-ZGMz-MC00-Yjk4-LWFm-Nz-Et-NTFm-Mz-M2-Yz-M3-MWFk-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+    "review": "A dark Gothic romance exploring obsessive love between Catherine Earnshaw and Heathcliff on the Yorkshire moors. After being degraded and rejected, Heathcliff returns wealthy to exact revenge on those who wronged him, creating cycles of cruelty spanning generations. Brontë's only novel challenges Victorian conventions with its morally ambiguous characters and raw emotions. The windswept moors mirror the characters' wild passions, creating an atmospheric backdrop for this tale of love, revenge, and destruction. Its complex narrative structure and psychological depth make it one of English literature's most powerful explorations of love's destructive and redemptive forces.",
+    "totalPages": 464,
+    "rating": 4.4,
+    "category": "Classic",
+    "tags": [
+      "Romance",
+      "Gothic"
+    ],
+    "publisher": "Thomas Cautley Newby",
+    "yearOfPublishing": 1847
+  },
+  {
+    "bookId": 37,
+    "bookName": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "image": "https://i.ibb.co.com/mrd8zGV2/d-Yko3-D-Sg2ej-Pvvcz-Hy-Vphjd-SLRx5-Kd-Zm8-C2-Mrt-Qb9-Q8o-D1-QVjmir2i-GEee-CDKs8y4-W.jpg",
+    "review": "Anne Frank's diary, written while hiding from Nazis in Amsterdam, provides an intimate account of Jewish persecution during WWII. Her observations of cramped hiding quarters, fear of discovery, teenage experiences, and hopes for the future create a deeply personal Holocaust narrative. Anne's voice—intelligent, sensitive, and remarkably mature—humanizes the tragedy with universal themes of adolescence, family dynamics, and maintaining hope in darkness. The diary's tragic ending, with Anne dying in Bergen-Belsen concentration camp, makes her words more poignant. This essential historical document reminds us of the Holocaust's human cost through one extraordinary young voice.",
+    "totalPages": 283,
+    "rating": 4.8,
+    "category": "Biography",
+    "tags": [
+      "Historical",
+      "Memoir"
+    ],
+    "publisher": "Contact Publishing",
+    "yearOfPublishing": 1947
+  },
+  {
+    "bookId": 38,
+    "bookName": "Ghare Baire",
+    "author": "Rabindranath Tagore",
+    "image": "https://i.ibb.co.com/GvvLq8Tm/aza795.jpg",
+    "review": "Set against the Swadeshi movement, 'The Home and the World' explores nationalism through a love triangle involving Nikhil, his wife Bimala, and revolutionary Sandip. Tagore questions blind nationalism and violent methods while advocating rational humanism. The novel examines political movements' impact on personal relationships, women's emancipation, and the tension between idealism and pragmatism. Told through three distinct voices, it creates a multilayered narrative challenging simplistic patriotic narratives. Tagore's nuanced examination of nationalism, morality, and gender makes this a complex political novel that remains relevant to understanding the costs of political extremism and women's agency.",
+    "totalPages": 256,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Political",
+      "Romance"
+    ],
+    "publisher": "Visva-Bharati",
+    "yearOfPublishing": 1916
+  },
+  {
+    "bookId": 39,
+    "bookName": "The Road",
+    "author": "Cormac McCarthy",
+    "image": "https://i.ibb.co.com/WpVXYf0L/the-road-pdf.jpg",
+    "review": "A harrowing post-apocalyptic tale of a father and son traveling through a devastated America toward the coast. McCarthy's spare prose creates a bleak landscape where humanity struggles to survive and maintain morality. The unnamed protagonists face starvation, cannibalistic gangs, and despair while their love sustains them. The novel explores themes of survival, parental love, hope in hopelessness, and what it means to remain 'the good guys' when civilization collapses. McCarthy's minimalist style and profound emotional depth make this a powerful meditation on love, mortality, and the human spirit's resilience. Winner of the Pulitzer Prize.",
+    "totalPages": 287,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Post-apocalyptic",
+      "Drama"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 2006
+  },
+  {
+    "bookId": 40,
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://i.ibb.co.com/nsYvqJg8/87f572f11a88ca761a720b37e0ba7ec8.jpg",
+    "review": "A gripping psychological thriller about Alicia Berenson, a famous painter who shoots her husband and then stops speaking entirely. Psychotherapist Theo Faber becomes obsessed with treating Alicia and uncovering her motive. Michaelides crafts a suspenseful narrative with masterful twists that keep readers guessing until the shocking conclusion. The novel explores themes of trauma, obsession, and the unreliability of perception. Drawing inspiration from Greek mythology, particularly the story of Alcestis, the book weaves psychological depth with page-turning suspense. Its unexpected ending and exploration of silence as both weapon and shield make it a standout in contemporary thriller fiction.",
+    "totalPages": 336,
+    "rating": 4.3,
+    "category": "Mystery",
+    "tags": [
+      "Thriller",
+      "Psychological"
+    ],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 41,
+    "bookName": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "image": "https://i.ibb.co.com/fVCws4DZ/0879790-midnights-children-paperback.jpg",
+    "review": "Rushdie's Booker Prize-winning epic follows Saleem Sinai, born at the exact moment of India's independence, whose life parallels his nation's history. Children born in the first hour of independence possess magical powers, linking their fates to India's destiny. Through magical realism, Rushdie explores partition, post-colonial identity, and the chaos of modern India. The novel's inventive language, sprawling narrative, and blend of history with fantasy revolutionized Indian writing in English. Its examination of memory, identity, and nationhood through fantastical elements makes it a landmark of postcolonial literature and one of the greatest novels of the 20th century.",
+    "totalPages": 647,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Magical Realism",
+      "Historical"
+    ],
+    "publisher": "Jonathan Cape",
+    "yearOfPublishing": 1981
+  },
+  {
+    "bookId": 42,
+    "bookName": "The Namesake",
+    "author": "Jhumpa Lahiri",
+    "image": "https://i.ibb.co.com/SDyNpxWh/10127.jpg",
+    "review": "Lahiri's debut novel follows the Ganguli family from Calcutta to Massachusetts, focusing on Gogol, named after the Russian author by his father. The narrative explores the immigrant experience, identity formation, and the tension between Bengali heritage and American culture. Gogol's struggle with his unusual name becomes a metaphor for finding one's place between two worlds. Lahiri's elegant prose captures the subtle complexities of family relationships, cultural displacement, and the search for belonging. The novel's sensitive portrayal of the immigrant experience and generational conflicts resonates universally, examining how names, traditions, and family shape identity across cultures.",
+    "totalPages": 291,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Literary",
+      "Cultural"
+    ],
+    "publisher": "Houghton Mifflin",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 43,
+    "bookName": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://i.ibb.co.com/mCRzRS3C/images-q-tbn-ANd9-Gc-Tg-Sfc-I9g7-PZIdugj-Vqe-WONl-JD-kw-TC8l4-IWw-s.jpg",
+    "review": "Shelley's groundbreaking Gothic novel tells of Victor Frankenstein, who creates a living being from dead tissue, only to abandon his creation in horror. The creature's subsequent quest for acceptance and revenge explores themes of creation, responsibility, isolation, and what makes us human. Written when Shelley was only eighteen, the novel pioneered science fiction while offering profound philosophical questions about scientific ethics and social rejection. The creature's eloquent pleas for compassion challenge readers to examine prejudice and responsibility. This timeless tale remains relevant to discussions of technology, creator responsibility, and society's treatment of the different.",
+    "totalPages": 280,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Gothic",
+      "Science Fiction"
+    ],
+    "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+    "yearOfPublishing": 1818
+  },
+  {
+    "bookId": 44,
+    "bookName": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "image": "https://i.ibb.co.com/PsMnNDGM/9780007383948.jpg",
+    "review": "Roy's Booker Prize-winning debut novel is set in Kerala, India, following twins Estha and Rahel whose childhood is shattered by forbidden love and social taboos. The non-linear narrative weaves past and present, exploring how small events have devastating consequences. Roy's lyrical prose examines caste discrimination, forbidden love, political unrest, and childhood trauma with poetic intensity. The novel's innovative structure and language, its exploration of India's social hierarchies, and its tragic love story create a haunting narrative about loss, memory, and the ways society destroys what it cannot accept. A powerful indictment of social injustice wrapped in beautiful storytelling.",
+    "totalPages": 340,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Literary",
+      "Drama"
+    ],
+    "publisher": "IndiaInk",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 45,
+    "bookName": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "image": "https://i.ibb.co/placeholder45.jpghttps://i.ibb.co.com/PzV33rPB/images-q-tbn-ANd9-Gc-Tj-P-24d-Fy-FH-AMvu2-Bl-A-Ep-STw-EXus-FMNBDA-s.jpg",
+    "review": "Wilde's only novel tells of beautiful Dorian Gray, who wishes his portrait would age instead of him. As he indulges in hedonism and moral corruption, the painting bears the marks of his sins while he remains youthful. This Gothic masterpiece explores vanity, moral corruption, art's relationship to life, and the consequences of living without ethical constraints. Wilde's witty epigrams and philosophical dialogues about aestheticism make it both entertaining and thought-provoking. The novel's examination of beauty's power, conscience, and the hidden costs of eternal youth remains relevant, offering a cautionary tale about sacrificing morality for pleasure and appearance.",
+    "totalPages": 254,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Gothic",
+      "Philosophical"
+    ],
+    "publisher": "Ward, Lock and Company",
+    "yearOfPublishing": 1890
+  },
+  {
+    "bookId": 46,
+    "bookName": "The Goldfinch",
+    "author": "Donna Tartt",
+    "image": "https://i.ibb.co.com/ZpXP39h7/images-q-tbn-ANd9-Gc-Qcweo2j9-VIgw2b-Oe-Dd-FWh-O21u4bkka-LS7-MRA-s.jpg",
+    "review": "Tartt's Pulitzer Prize-winning novel follows Theo Decker, who survives a terrorist attack at an art museum that kills his mother. He steals a painting—'The Goldfinch'—which becomes both his salvation and burden as he navigates grief, guilt, and a criminal underworld. The sprawling narrative explores art's redemptive power, loss, addiction, and the randomness of survival. Tartt's rich prose and complex plot create a modern Dickensian tale examining how tragedy shapes lives and art provides meaning. The novel's meditation on beauty, mortality, and the things we cling to makes it a contemporary classic about finding purpose in chaos.",
+    "totalPages": 771,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Literary",
+      "Coming-of-age"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 2013
+  },
+  {
+    "bookId": 47,
+    "bookName": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "image": "https://i.ibb.co.com/5tRySPv/Things-Fall-Apart.jpg",
+    "review": "Achebe's groundbreaking novel depicts pre-colonial Igbo society through Okonkwo, a respected warrior whose life unravels with the arrival of European colonizers and missionaries. The narrative challenges Western portrayals of Africa, presenting a complex, functioning society destroyed by colonialism. Achebe explores tradition versus change, masculinity, cultural destruction, and the tragic consequences of inflexibility. Written in English but infused with Igbo proverbs and worldview, it pioneered African literature in English. The novel's title from Yeats captures the disintegration of traditional life under colonial pressure. Essential reading for understanding colonialism's impact and African perspectives on this history.",
+    "totalPages": 209,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Historical"
+    ],
+    "publisher": "Heinemann",
+    "yearOfPublishing": 1958
+  },
+  {
+    "bookId": 48,
+    "bookName": "Educated",
+    "author": "Tara Westover",
+    "image": "https://i.ibb.co.com/qM6rGgtw/0a375a59d4dc6e99b4db83b86424faf4-jpg-960x960q80-jpg.webp",
+    "review": "Westover's memoir recounts her journey from growing up in a survivalist Mormon family in rural Idaho, with no formal education, to earning a PhD from Cambridge. Her story explores the transformative power of education, the pain of leaving one's family and beliefs, and the cost of self-invention. Westover examines domestic violence, religious extremism, and the tension between loyalty and self-preservation with brutal honesty. The memoir raises questions about memory, family, and what we owe those who raised us. Her powerful narrative about breaking free from an oppressive upbringing to pursue knowledge became a phenomenon, inspiring discussions about education and family.",
+    "totalPages": 334,
+    "rating": 4.7,
+    "category": "Biography",
+    "tags": [
+      "Memoir",
+      "Inspirational"
+    ],
+    "publisher": "Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 49,
+    "bookName": "Rebecca",
+    "author": "Daphne du Maurier",
+    "image": "https://i.ibb.co.com/yFVpTvNt/674-D3718-F768-4-BE7-B573-8-DDF5538-DA78-IMG400.jpg",
+    "review": "A Gothic masterpiece about a young woman who marries wealthy Maxim de Winter and moves to his estate, Manderley, only to find herself haunted by the memory of his first wife, Rebecca. The unnamed narrator struggles against Rebecca's lingering presence and the sinister housekeeper Mrs. Danvers's obsession. Du Maurier creates an atmosphere of psychological suspense, exploring themes of jealousy, identity, class, and the past's power over the present. The novel's famous opening line—'Last night I dreamt I went to Manderley again'—sets the tone for this haunting tale. Its mystery, romance, and psychological depth make it an enduring classic.",
+    "totalPages": 380,
+    "rating": 4.5,
+    "category": "Mystery",
+    "tags": [
+      "Gothic",
+      "Romance"
+    ],
+    "publisher": "Victor Gollancz",
+    "yearOfPublishing": 1938
+  },
+  {
+    "bookId": 50,
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "image": "https://i.ibb.co.com/20DpDrNV/33afcb4a276febab45b22d976aa936cd.jpg",
+    "review": "Harari's sweeping narrative traces humanity's journey from insignificant apes to dominant species. Exploring cognitive, agricultural, and scientific revolutions, he examines how Homo sapiens conquered the world through imagination, cooperation, and storytelling. The book challenges conventional wisdom about progress, happiness, and human nature, questioning whether agricultural and technological advances truly improved human welfare. Harari's accessible style makes complex anthropology, history, and philosophy engaging for general readers. His provocative arguments about money, religion, and empires as 'imagined realities' that enable large-scale cooperation offer fresh perspectives on human society. A thought-provoking examination of who we are and where we're headed.",
+    "totalPages": 443,
+    "rating": 4.6,
+    "category": "Non-fiction",
+    "tags": [
+      "History",
+      "Science"
+    ],
+    "publisher": "Harvill Secker",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 51,
+    "bookName": "The Cuckoo's Calling",
+    "author": "Robert Galbraith (J.K. Rowling)",
+    "image": "https://i.ibb.co.com/BHLbW1jG/16160797.jpg",
+    "review": "Rowling's debut detective novel introduces Cormoran Strike, a war veteran turned private investigator, hired to investigate a supermodel's apparent suicide. As Strike and his assistant Robin unravel the case, they uncover dark secrets in London's fashion world. The novel combines classic detective fiction elements with contemporary settings and complex characters. Rowling's attention to detail, red herrings, and character development create an engaging mystery that launched a successful series. The book explores themes of fame, perception versus reality, and the costs of celebrity. Its traditional mystery structure and memorable protagonist prove Rowling's versatility beyond fantasy.",
+    "totalPages": 455,
+    "rating": 4.3,
+    "category": "Mystery",
+    "tags": [
+      "Detective",
+      "Crime"
+    ],
+    "publisher": "Mulholland Books",
+    "yearOfPublishing": 2013
+  },
+  {
+    "bookId": 52,
+    "bookName": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "image": "https://i.ibb.co.com/3mP5pQs4/images-q-tbn-ANd9-Gc-QTYPoh-Gg-ZRAVKhu2z-NF8-M0-KLREk-HYHi-CIFmg-s.jpg",
+    "review": "Plath's semi-autobiographical novel follows Esther Greenwood, a talented college student whose summer internship at a New York magazine leads to a mental breakdown. Through Esther's descent into depression and her struggle with societal expectations of women in the 1950s, Plath creates a devastating portrait of mental illness. The 'bell jar' metaphor—feeling trapped and suffocated—powerfully captures depression's isolating nature. Plath's sharp prose and dark humor make this both a critique of gender roles and a honest depiction of mental health struggles. Published shortly before Plath's suicide, the novel remains an important work about female identity and mental illness.",
+    "totalPages": 244,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Psychological"
+    ],
+    "publisher": "Heinemann",
+    "yearOfPublishing": 1963
+  },
+  {
+    "bookId": 53,
+    "bookName": "Circe",
+    "author": "Madeline Miller",
+    "image": "https://i.ibb.co.com/RpDxjwrg/35959740.jpg",
+    "review": "Miller reimagines the story of Circe, the witch from Homer's Odyssey, giving voice to a character traditionally portrayed as a villain. Exiled to a deserted island for her witchcraft, Circe encounters famous mythological figures including Odysseus, developing her powers and independence. Miller explores themes of feminism, power, isolation, and transformation through gorgeous prose that brings ancient myths to life. The novel challenges traditional narratives by centering a female perspective, examining how women in mythology were silenced and misunderstood. Circe's journey from powerless nymph to powerful witch who chooses her own path makes this a compelling feminist retelling of classical mythology.",
+    "totalPages": 393,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": [
+      "Mythology",
+      "Feminist"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 54,
+    "bookName": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "image": "https://i.ibb.co.com/5Wy05kfg/Wherethe-Crawdads-Sing-Novelby-Delia-Owens.png",
+    "review": "Set in the marshes of North Carolina, this novel follows Kya, the 'Marsh Girl' who raises herself in isolation after her family abandons her. When a local man is found dead, Kya becomes the prime suspect. Owens weaves a coming-of-age story with murder mystery, exploring themes of isolation, prejudice, nature, and resilience. The lush descriptions of marsh life and Kya's self-education through nature create a vivid sense of place. The novel examines how society treats outsiders and the strength required to survive alone. Its combination of literary fiction, romance, and mystery became a cultural phenomenon, resonating with millions of readers worldwide.",
+    "totalPages": 384,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Mystery",
+      "Coming-of-age"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 55,
+    "bookName": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "image": "https://i.ibb.co.com/Swfqq73z/large.jpg",
+    "review": "Hosseini's powerful novel spans three decades of Afghan history through the lives of two women, Mariam and Laila, whose unlikely friendship sustains them through war, domestic abuse, and Taliban oppression. The narrative explores women's resilience, the bonds between mothers and daughters, and love's redemptive power in the face of unimaginable hardship. Hosseini depicts Afghanistan's transformation from a modernizing nation to a war-torn country with heartbreaking detail. The title, from a Persian poem celebrating Kabul's beauty, contrasts tragically with the destruction the characters witness. This emotionally devastating novel humanizes Afghan women's experiences while celebrating their strength and sacrifice.",
+    "totalPages": 372,
+    "rating": 4.7,
+    "category": "Historical Fiction",
+    "tags": [
+      "Drama",
+      "War"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2007
+  },
+  {
+    "bookId": 56,
+    "bookName": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "image": "https://i.ibb.co.com/r2NbRjzc/images-q-tbn-ANd9-Gc-Q5fvn96l1-UDd-Qyp-Obez-X8-N-w-THd2b9bc-IRu-Q-s.jpg",
+    "review": "Set in post-war Barcelona, young Daniel discovers a mysterious novel by Julián Carax in the Cemetery of Forgotten Books. His quest to learn about the author uncovers dark secrets, forbidden love, and a mysterious figure burning Carax's books. Zafón weaves Gothic mystery with historical fiction, creating an atmospheric tale celebrating literature's power. The novel explores themes of love, revenge, memory, and the transformative power of stories. Its labyrinthine plot, memorable characters, and evocative Barcelona setting create an immersive reading experience. A love letter to books and reading, it became an international bestseller that enchanted readers with its literary mystery.",
+    "totalPages": 487,
+    "rating": 4.6,
+    "category": "Mystery",
+    "tags": [
+      "Historical",
+      "Gothic"
+    ],
+    "publisher": "Planeta",
+    "yearOfPublishing": 2001
+  },
+  {
+    "bookId": 57,
+    "bookName": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "image": "https://i.ibb.co.com/Kp7Wfmw4/images-q-tbn-ANd9-Gc-Tqng-Y-ofhv-RNNaq-Tyx-Lf0-JJpp-ZUj-K8y-Ui-VVA-s.jpg",
+    "review": "A post-apocalyptic novel that follows a traveling theater troupe performing Shakespeare twenty years after a pandemic wipes out most of humanity. The narrative weaves between pre- and post-collapse, exploring interconnected characters and the role of art in survival. Mandel's elegant prose examines what makes life worth living beyond mere survival, arguing that art, culture, and human connection are essential to civilization. The novel's hopeful vision of humanity rebuilding through art contrasts with typical post-apocalyptic bleakness. Its meditation on memory, loss, and the persistence of beauty in darkness makes it a literary achievement that transcends genre boundaries.",
+    "totalPages": 333,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Post-apocalyptic",
+      "Literary"
+    ],
+    "publisher": "Knopf",
+    "yearOfPublishing": 2014
+  },
+  {
+    "bookId": 58,
+    "bookName": "Normal People",
+    "author": "Sally Rooney",
+    "image": "https://i.ibb.co.com/Z1MFNrX2/images-q-tbn-ANd9-Gc-RHsx-L6-F3yw-Rss-D90wd-Tmccz-UWOi1y-Hjaq-UIA-s.jpg",
+    "review": "Rooney's acclaimed novel follows Connell and Marianne from secondary school in small-town Ireland to Trinity College Dublin, chronicling their complex, on-again-off-again relationship. The spare prose and intimate third-person narration capture the intricacies of young love, class differences, and the difficulty of communication. Rooney explores themes of power dynamics, social anxiety, and how people shape each other over time. The novel's realistic portrayal of millennial relationships, mental health, and the transition to adulthood resonated globally. Its psychological depth and examination of how small misunderstandings create distance between people who deeply understand each other makes it a defining work of contemporary fiction.",
+    "totalPages": 266,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Romance",
+      "Contemporary"
+    ],
+    "publisher": "Faber and Faber",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 59,
+    "bookName": "Beloved",
+    "author": "Toni Morrison",
+    "image": "https://i.ibb.co.com/nNJLjTkL/6149.jpg",
+    "review": "Morrison's Pulitzer Prize-winning masterpiece tells of Sethe, an escaped slave haunted by the ghost of the daughter she killed to save from slavery. Set after the Civil War, the novel explores slavery's psychological trauma and its lasting impact on individuals and communities. Morrison's poetic yet brutal prose confronts the unspeakable horrors of slavery while celebrating Black survival and resilience. The novel examines memory, motherhood, and the impossibility of escaping the past. Through magical realism and non-linear narrative, Morrison creates a powerful meditation on American history's darkest chapter and its continuing reverberations. Essential reading for understanding slavery's legacy and trauma's nature.",
+    "totalPages": 321,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Historical",
+      "Literary"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 1987
+  },
+  {
+    "bookId": 60,
+    "bookName": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "image": "https://i.ibb.co.com/s9r5YHH6/9798643778516.jpg",
+    "review": "Dumas's epic adventure follows Edmond Dantès, wrongly imprisoned for treason, who escapes after fourteen years and reinvents himself as the wealthy Count of Monte Cristo to exact revenge on those who betrayed him. This sprawling tale of betrayal, justice, and redemption explores whether revenge brings satisfaction or merely perpetuates suffering. Set against post-Napoleonic France, the novel combines adventure, romance, and moral philosophy. Dantès's transformation from naive sailor to sophisticated avenger raises questions about justice, mercy, and the costs of obsession. The intricate plot and memorable characters make this one of literature's greatest adventure stories and revenge narratives.",
+    "totalPages": 1276,
+    "rating": 4.8,
+    "category": "Classic",
+    "tags": [
+      "Adventure",
+      "Historical"
+    ],
+    "publisher": "Pétion",
+    "yearOfPublishing": 1844
+  },
+  {
+    "bookId": 61,
+    "bookName": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "image": "https://i.ibb.co.com/Hf60BZ2D/Americanah-book-cover.jpg",
+    "review": "Adichie's sweeping novel follows Ifemelu and Obinze, young lovers from Nigeria who separate when Ifemelu moves to America for university. The narrative explores race, identity, immigration, and love across continents. Ifemelu's experiences with American racism, her popular blog about race, and eventual return to Nigeria create a nuanced examination of the African diaspora experience. Adichie tackles hair politics, code-switching, and what it means to be Black in different contexts with humor and insight. The novel's honest conversations about race, class, and belonging, combined with a compelling love story, make it essential contemporary literature about globalization and identity.",
+    "totalPages": 477,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Contemporary",
+      "Cultural"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 2013
+  },
+  {
+    "bookId": 62,
+    "bookName": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "image": "https://i.ibb.co.com/BKFhCQbs/b271156a2c2ab988b1495418abe0b208.jpg",
+    "review": "A magical love story set within a mysterious circus that appears without warning and only opens at night. Two young magicians, Celia and Marco, are bound in a competition by their mentors, using the circus as their arena. Morgenstern creates an enchanting world of black-and-white tents filled with wonders, from a garden made of ice to a cloud maze. The non-linear narrative weaves multiple perspectives and timelines, building suspense about the competition's outcome and the lovers' fate. The novel celebrates imagination, artistry, and love's power to transcend even magical bonds. Its atmospheric prose and intricate world-building create an immersive fairy tale for adults.",
+    "totalPages": 387,
+    "rating": 4.4,
+    "category": "Fantasy",
+    "tags": [
+      "Romance",
+      "Magical"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 63,
+    "bookName": "And Then There Were None",
+    "author": "Agatha Christie",
+    "image": "https://i.ibb.co.com/4gjScdjD/Asif2.png",
+    "review": "Christie's masterpiece of mystery brings ten strangers to an isolated island, where they're accused of past murders and killed one by one, following a nursery rhyme. As the death toll rises, paranoia and suspicion mount among survivors trying to identify the killer. This locked-room mystery showcases Christie's plotting genius, with one of literature's most ingenious solutions. The claustrophobic setting, mounting tension, and psychological examination of guilt make it a thriller classic. Frequently cited as the best-selling mystery novel of all time, it set the standard for the closed-circle mystery genre and demonstrates why Christie remains the Queen of Crime.",
+    "totalPages": 272,
+    "rating": 4.7,
+    "category": "Mystery",
+    "tags": [
+      "Classic",
+      "Suspense"
+    ],
+    "publisher": "Collins Crime Club",
+    "yearOfPublishing": 1939
+  },
+  {
+    "bookId": 64,
+    "bookName": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "image": "https://i.ibb.co.com/JWfbX8SS/Kazuo-Ishiguro-The-Remains-Of-The-Day.jpg",
+    "review": "Ishiguro's Booker Prize-winning novel follows Stevens, an English butler reflecting on his life in service during a road trip through the countryside. Through Stevens's restrained narration, we see his dedication to professionalism and his employer Lord Darlington, whose Nazi sympathies Stevens ignored. The novel explores themes of dignity, regret, wasted life, and the British class system. Stevens's repressed emotions, particularly regarding housekeeper Miss Kenton, reveal the costs of his unwavering duty. Ishiguro's subtle prose creates a devastating portrait of a man realizing too late what he sacrificed. A meditation on duty, memory, and the meaning of a life well-lived.",
+    "totalPages": 258,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Literary",
+      "Historical"
+    ],
+    "publisher": "Faber and Faber",
+    "yearOfPublishing": 1989
+  },
+  {
+    "bookId": 65,
+    "bookName": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "image": "https://i.ibb.co.com/bjdQ6P5N/images-q-tbn-ANd9-Gc-Q6b-AX2thuaa-ZHd8-E5g0-FLxxn-L-y-NJX9d-Uq5-Q-s.jpg",
+    "review": "Steinbeck's Pulitzer Prize-winning epic follows the Joad family, Oklahoma tenant farmers forced to migrate to California during the Great Depression's Dust Bowl. The novel depicts their harrowing journey and exploitation in California's migrant camps with unflinching realism. Steinbeck's powerful prose combines intimate family drama with broader social commentary about capitalism, injustice, and human dignity. The novel's intercalary chapters provide historical context and universal themes. Its depiction of poverty, corporate greed, and the resilience of the dispossessed became a defining work of American literature. The controversial ending remains powerful in its affirmation of human compassion and solidarity during desperate times.",
+    "totalPages": 464,
+    "rating": 4.6,
+    "category": "Classic",
+    "tags": [
+      "Historical",
+      "Social Justice"
+    ],
+    "publisher": "Viking Press",
+    "yearOfPublishing": 1939
+  },
+  {
+    "bookId": 66,
+    "bookName": "Dune",
+    "author": "Frank Herbert",
+    "image": "https://i.ibb.co.com/d0DQyCgQ/image-1024.jpg",
+    "review": "Herbert's science fiction masterpiece is set on the desert planet Arrakis, the only source of the universe's most valuable substance, 'spice.' Young Paul Atreides must navigate political intrigue, ecological disaster, and his prescient visions to survive and fulfill his destiny. The novel explores themes of religion, politics, ecology, and power with unprecedented depth for science fiction. Herbert created a complex universe with detailed world-building, addressing colonialism, resource exploitation, and messianic leadership. The ecological themes and warnings about charismatic leaders remain remarkably relevant. 'Dune' revolutionized science fiction, proving the genre could tackle profound philosophical and political questions while delivering epic adventure.",
+    "totalPages": 688,
+    "rating": 4.7,
+    "category": "Science Fiction",
+    "tags": [
+      "Epic",
+      "Adventure"
+    ],
+    "publisher": "Chilton Books",
+    "yearOfPublishing": 1965
+  },
+  {
+    "bookId": 67,
+    "bookName": "The Secret History",
+    "author": "Donna Tartt",
+    "image": "https://i.ibb.co.com/mCv6Tpd1/9780140167771.jpg",
+    "review": "Tartt's debut novel follows a group of elite classics students at a New England college who commit murder. Opening with the confession, the narrative explores how and why intelligent, privileged young people crossed this line. Tartt examines themes of beauty, morality, obsession, and the seductive danger of intellectualism divorced from ethics. The atmospheric prose and complex characters create a dark academia masterpiece. The novel questions whether studying ancient cultures and philosophy corrupts or enlightens, and whether beauty justifies amorality. Its psychological depth and exploration of friendship, guilt, and the consequences of playing god make it a cult classic that defined the dark academia genre.",
+    "totalPages": 559,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Thriller",
+      "Literary"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 1992
+  },
+  {
+    "bookId": 68,
+    "bookName": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://i.ibb.co.com/5gcvC3hn/images-q-tbn-ANd9-Gc-Su-FC8j-SRYO1-KLJDv8-BD1-Muh-FYvzf0-KPDmg-s.jpg",
+    "review": "The former First Lady's memoir chronicles her journey from Chicago's South Side to the White House, offering an intimate portrait of her experiences. Obama discusses her childhood, career as a lawyer, marriage to Barack Obama, motherhood, and her years as First Lady with candor and grace. She addresses race, gender, politics, and public service while sharing personal struggles with infertility, marriage challenges, and finding her voice. The memoir examines what it meant to be the first African American First Lady, her initiatives for children's health and education, and her navigation of intense public scrutiny. An inspiring story of perseverance, purpose, and breaking barriers.",
+    "totalPages": 426,
+    "rating": 4.8,
+    "category": "Biography",
+    "tags": [
+      "Memoir",
+      "Inspirational"
+    ],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2018
   }
 ]
