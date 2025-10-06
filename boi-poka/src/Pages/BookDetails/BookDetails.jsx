@@ -1,6 +1,11 @@
 import React from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import { addToStoredDB } from '../../Utilities/addToDB';
+import Swal from 'sweetalert2'
+import withReactContent from 'sweetalert2-react-content'
+import { ToastContainer, toast } from 'react-toastify';
+
+const MySwal = withReactContent(Swal)
 
 const BookDetails = () => {
 
@@ -14,7 +19,7 @@ const BookDetails = () => {
     const { bookName, image, author, category, review, totalPages, publisher, yearOfPublishing, rating, tags } = singleBook;
 
 
-    const handleMarkAsRead = (id) =>{
+    const handleMarkAsRead = (id) => {
 
         // store with id 
         // where to store 
@@ -22,6 +27,25 @@ const BookDetails = () => {
         // if book already exist then show an alert 
         // if book doesn't exist then push to the collection array
 
+
+        /*     const Toast = Swal.mixin({
+                toast: true,
+                position: "top-end",
+                showConfirmButton: false,
+                timer: 3000,
+                timerProgressBar: true,
+                didOpen: (toast) => {
+                    toast.onmouseenter = Swal.stopTimer;
+                    toast.onmouseleave = Swal.resumeTimer;
+                }
+            });
+            Toast.fire({
+                icon: "success",
+                title: "Added successfully ✅ "
+            }); */
+
+
+        toast("Added SuccessFully");
         addToStoredDB(id);
 
     }
@@ -34,6 +58,7 @@ const BookDetails = () => {
                     src={image}
                     alt={bookName} />
             </figure>
+             <ToastContainer />
             <div className="card-body">
                 <h2 className="card-title text-4xl">{bookName}</h2>
                 <p>By : {author}</p>
@@ -52,7 +77,7 @@ const BookDetails = () => {
                     </div>
                 </div>
                 <div className='flex gap-12'>
-                    
+
                     <div>
                         <p>Number of Pages: </p>
                         <p>Publisher: </p>
@@ -67,7 +92,7 @@ const BookDetails = () => {
                     </div>
                 </div>
                 <div className="card-actions mt-2 gap-3">
-                    <button onClick={ ()=> handleMarkAsRead(id)} className="btn">Mark as Read</button>
+                    <button onClick={() => handleMarkAsRead(id)} className="btn">Mark as Read</button>
                     <button className="btn btn-info">Add to Wishlist</button>
                 </div>
             </div>
